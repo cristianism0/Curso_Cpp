@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+using namespace std;       //we can use std::functin instead using a library like that
 
 int main(){
     string firstName = "Alma ";

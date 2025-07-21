@@ -1,18 +1,18 @@
 ### C++ key points
 
 ##### Syntax:
-- C++ is ==case sensitive==
+- C++ is case sensitive
 - Usually uses a header file library
 - Every C++ statements ends with a semicolon ;
-- The body of a function is build like: ==type== function () {}
-- The variable declaration is build like: ==type== variableName = value; 
+- The body of a function is build like: *type* function () {}
+- The variable declaration is build like: *type* variableName = value; 
 ---
 ##### Variables Types and Identifiers:
-- ==int==: stores integers numbers
-- ==double==: stores floating point numbers, with decimals
-- ==char==: stores SINGLE characters like 'b' or 'F', with **single quotes**
-- ==string==: stores text, uses **double quotes**
-- ==boolean==: stores _true (1)_ or _false (0)_
+- ***int***: stores integers numbers
+- ***double***: stores floating point numbers, with decimals
+- ***char***: stores SINGLE characters like 'b' or 'F', with **single quotes**
+- ***string***: stores text, uses **double quotes**
+- ***boolean***: stores _true (1)_ or _false (0)_
 - _auto_: identifies a variable type
 
 - Identifiers are the variables names, usually they are descriptive

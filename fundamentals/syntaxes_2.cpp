@@ -21,7 +21,7 @@ int main(){
     } else{                          //podemos usar o else if também.
         cout <<  "O número: " << y << " é maior que: " << x;
     }
-    cout << "\n\n";
+    cout << std::endl;  //this skips to the next line (INEFFICIENT) keep flushing the buffer, slower, keep on \n
     //---------------
     //We can also, write a condition if-else this way: Ternary operation
 

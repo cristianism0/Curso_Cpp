@@ -1,7 +1,6 @@
----
-## This Repository is for my C/C++ Course
----
-### For sources:
-- W3Schools
-- Youtube tutorials
-- Books (maybe)
+# Repositório para armazenar notas e exercícios do curso de C++
+
+## Fontes usadas:
+- [Learning C++](https://www.learncpp.com/)
+- [StackOverflow](https://stackoverflow.com/)
+- [W3Schools](https://www.w3schools.com/cpp/)
